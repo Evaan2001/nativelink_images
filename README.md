@@ -20,3 +20,7 @@ Model fine-tuning times:<br>
 Cache Manager performance:<br>
 <img width="704" alt="Screenshot 2025-05-04 at 1 53 14 PM" src="https://github.com/user-attachments/assets/a941c3a2-32fd-4014-91e9-1e350774ee9f" />
 
+<be>
+Fine tuning on CPU landing image:<br>
+  <img width="704" alt="Screenshot 2025-05-04 at 1 53 14 PM" src="https://github.com/user-attachments/assets/b2018e85-b31d-4c65-9dd4-34c8b7527880" />
+
