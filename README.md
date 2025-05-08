@@ -22,5 +22,6 @@ Cache Manager performance:<br>
 
 <be>
 Fine tuning on CPU landing image:<br>
-  <img width="704" alt="Screenshot 2025-05-04 at 1 53 14 PM" src="https://github.com/user-attachments/assets/b2018e85-b31d-4c65-9dd4-34c8b7527880" />
+  <img width="704" alt="Screenshot 2025-05-04 at 1 53 14 PM" src="https://github.com/user-attachments/assets/ddfb5684-327b-4af9-9618-be707eab894f" />
+
 
